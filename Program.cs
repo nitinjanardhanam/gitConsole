@@ -6,7 +6,7 @@ namespace gitConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nitin Janardhanam");
+            Console.WriteLine("Nitin Janardhanam - simple console application!!!");
         }
     }
 }
