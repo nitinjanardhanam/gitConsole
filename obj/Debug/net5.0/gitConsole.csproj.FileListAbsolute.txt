@@ -1,0 +1,16 @@
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.exe
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.deps.json
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.runtimeconfig.json
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.runtimeconfig.dev.json
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.dll
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\ref\gitConsole.dll
+C:\repos\nitinjanardhanam\gitConsole\bin\Debug\net5.0\gitConsole.pdb
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.csprojAssemblyReference.cache
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.AssemblyInfoInputs.cache
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.AssemblyInfo.cs
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.csproj.CoreCompileInputs.cache
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.dll
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\ref\gitConsole.dll
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.pdb
+C:\repos\nitinjanardhanam\gitConsole\obj\Debug\net5.0\gitConsole.genruntimeconfig.cache
